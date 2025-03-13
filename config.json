@@ -34,42 +34,26 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "61567301076941",
-    "100086680386976",
-    "100082395531611",
-    "100000654976375",
-    "100025583375614",
-    "100092421819567",
-    "100057845471745",
-    "61559253790096"
-  ],
+  "adminBot": ["61566551318414"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [
-      "61567301076941",
-      "100082395531611",
-      "100086680386976",
-      "100000654976375",
-      "100025583375614"
-      
-    ],
+    "whiteListIds": ["61566551318414"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆ BOT",
-  "prefix": "/",
+  "nickNameBot": "SAKURA",
+  "prefix": "!",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "Ullash ッ",
+  "authorName": "Sabuッ",
   "facebook2": "https://www.facebook.com/100000654976375",
   "facebook": "https://www.facebook.com/100086680386976",
   "email": "ullash263@gmail.com",
   "replit": "https://replit.com/@ullash264",
   "github": "Find out.",
   "insta": "no",
-  "age": "21+",
+  "age": "17+",
   "TG": "",
   "database": {
     "type": "sqlite",
