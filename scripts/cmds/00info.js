@@ -15,10 +15,10 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ᑘᒪᒪᗩSᕼ ッ ";
-		const ownAge = "『 21 』";
+		const authorName = " sabuu ッ ";
+		const ownAge = "『 17+ 』";
 		const messenger = "https://m.me/61567301076941";
-		const authorFB = "https://www.facebook.com/profile.php?id=100000654976375";
+		const authorFFacebook ="https://www.facebook.com/share/168jVrRn33/;
 		const authorNumber = "এইটা পার্সোনাল";
 		const Status = "complicated";
 		const urls = [
