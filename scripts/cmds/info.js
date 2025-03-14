@@ -26,7 +26,7 @@ module.exports = {
 				facebook: 'https://www.facebook.com/profile.php?id=61566551318414'
 			};
 
-			const ArYan = 'https://i.imgur.com/AzbbwHd.jpeg';
+			const ArY = https:'//i.imgur.com/THX5TCM.mp4';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
