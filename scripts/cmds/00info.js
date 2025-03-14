@@ -22,10 +22,7 @@ module.exports = {
 		const authorNumber = "এইটা পার্সোনাল";
 		const Status = "complicated";
 		const urls = [
-"https://i.imgur.com/zLH9Akq.jpeg",
-"https://i.imgur.com/yFGI6sF.jpeg",
-"https://i.imgur.com/YIXBEo7.jpeg",
-"https://i.imgur.com/1bKCteB.jpeg"
+"https://i.imgur.com/THX5TCM.mp4"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
