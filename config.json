@@ -34,10 +34,10 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["61566551318414,61566871826877"],
+  "adminBot": ["61566551318414","61566871826877"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61566551318414,61566871826877"],
+    "whiteListIds": ["61566551318414","61566871826877"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "SAKURA",
